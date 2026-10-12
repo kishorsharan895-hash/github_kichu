@@ -1,0 +1,5 @@
+Name    skills
+
+Kishor   python,wazuh,sysmom,git,github 
+
+nova    java,html, 
